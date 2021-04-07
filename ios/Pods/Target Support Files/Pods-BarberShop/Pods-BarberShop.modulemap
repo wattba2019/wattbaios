@@ -1,0 +1,6 @@
+module Pods_BarberShop {
+  umbrella header "Pods-BarberShop-umbrella.h"
+
+  export *
+  module * { export * }
+}

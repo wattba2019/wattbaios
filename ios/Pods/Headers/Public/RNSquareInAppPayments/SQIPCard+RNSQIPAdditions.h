@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-square-in-app-payments/ios/Converters/SQIPCard+RNSQIPAdditions.h

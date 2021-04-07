@@ -1,0 +1,52 @@
+{
+  "name": "react-native-google-places-autocomplete",
+  "version": "1.9.0",
+  "description": "Customizable Google Places autocomplete component for iOS and Android React-Native apps",
+  "main": "GooglePlacesAutocomplete.js",
+  "scripts": {
+    "lint": "eslint . && prettier --write ."
+  },
+  "author": "Farid from Safi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaridSafi/react-native-google-places-autocomplete.git"
+  },
+  "keywords": [
+    "autocomplete",
+    "google",
+    "places",
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "bugs": {
+    "url": "https://github.com/FaridSafi/react-native-google-places-autocomplete/issues"
+  },
+  "homepage": "https://github.com/FaridSafi/react-native-google-places-autocomplete#readme",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "prop-types": "^15.5.10",
+    "qs": "~6.9.1"
+  },
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^1.1.0",
+    "eslint": "^6.0.0",
+    "husky": ">=4",
+    "lint-staged": ">=10",
+    "prettier": "2.0.5",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "react-native": ">= 0.46"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*/**": "yarn lint --"
+  }
+}

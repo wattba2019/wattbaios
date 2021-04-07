@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>88900422511-9btbmellhlp35jcmntp576ith4j5k4lf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88900422511-9btbmellhlp35jcmntp576ith4j5k4lf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>88900422511-bcf4g0do2c6h8qd85f50l77f2t213l4s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVlc4mIVpBaQYEIoJvKtavaUB5o__mdSE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88900422511</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.wattba</string>
+	<key>PROJECT_ID</key>
+	<string>wattba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wattba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88900422511:ios:03953ea1afb064b872369a</string>
+	<key>DATABASE_URL</key>
+	<string>https://wattba.firebaseio.com</string>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+</dict>
+</plist>
