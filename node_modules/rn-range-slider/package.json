@@ -1,0 +1,33 @@
+{
+  "name": "rn-range-slider",
+  "version": "1.3.3",
+  "author": "Tigran Sahakyan <mail.of.tigran@gmail.com>",
+  "description": "React Native Range Slider for Android and iOS",
+  "homepage": "https://github.com/githuboftigran/rn-range-slider",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "android",
+    "ios",
+    "custom",
+    "range",
+    "slider",
+    "seekbar"
+  ],
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/githuboftigran/rn-range-slider.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
